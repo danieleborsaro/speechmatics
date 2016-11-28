@@ -1,0 +1,25 @@
+A client has asked for a Python script with the following specification:
+
+This script should measure the status of the Speechmatics service every
+minute for an hour and print the time(s) when the longest turnaround time
+was measured in that period in EST in the format HH:MM:SS.
+
+Documentation on the API call to measure Speechmatics status is here:
+https://www.speechmatics.com/api-details#getStatus
+
+The client was delivered some code from one of your colleagues in a different
+department.  The client complained that the code is not working.  You are
+horrified to see the attached file (measure_turnaround_script.py) is what was
+handed over to the client.
+
+Please clean up the code as much as you can in no more than 2 hours so that it
+fulfils the original brief as best as possible.  We ask you not to spend more
+than 2 hours both because we realise you don't want to spend all your life on a
+programming task and also to simulate a very time sensitive client :o)
+
+Once finished please upload your code and a small report on your implementation 
+to Github or a similar web-based repository and send us the public url. The
+report should be in pdf, markdown or plaintext format.
+In your report please comment on what you fixed, what you would do to improve
+the code if you had more time and the text with a possible email to send back to
+the client with the updated code.
